@@ -83,3 +83,14 @@ Delivered customer service in a fast paced environment
 - GitHub: https://github.com/InamKlaas
 - LinkedIn: https://www.linkedin.com/in/inam-klaas
 - Email: mailto: 222304502@mycput.ac.za
+
+------------------------------------------------------
+
+## Download CV
+[Download CV](./Inam-Klaas-CV.pdf) 
+
+------------------------------------------------------
+## Mock Interview 
+[Watch Mock Interview](.Mock-Interview.mp4)
+
+-------------------------------------------------------
