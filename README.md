@@ -1,4 +1,7 @@
-<img src="./inam%20capacity.jpg" width="150" align="right">
+<p align="left">
+  <img src="./inam%20capacity.jpg" width="150">
+</p>
+
 
 # Inam Klaas
 
