@@ -1,3 +1,4 @@
+![Profile Picture](./inam%20capacity.jpg)
 # Inam Klaas
 
 ## 📌Profile 
