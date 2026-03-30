@@ -1,4 +1,5 @@
-![Profile Picture](./inam%20capacity.jpg)
+<img src="./inam%20capacity.jpg" width="150" align="right">
+
 # Inam Klaas
 
 ## 📌Profile 
