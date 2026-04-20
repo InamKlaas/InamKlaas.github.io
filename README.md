@@ -107,10 +107,14 @@ As a result, I successfully created a clean and professional CV that is accessib
 
 # Mork Interview 
 
-<video width="600" controls>
-  <source src="./main/TRIAL____________Mock%20Interview%20(1).mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Below is my mock interview demonstrating my communication and technical skills:
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/bGXky5cxPvE" 
+title="Mock Interview Video" 
+frameborder="0" 
+allowfullscreen>
+</iframe>
 
 
 ## Situation:
