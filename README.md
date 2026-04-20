@@ -107,7 +107,11 @@ As a result, I successfully created a clean and professional CV that is accessib
 
 # Mork Interview 
 
-# Mork interview Reflection
+<video width="600" controls>
+  <source src="./main/TRIAL____________Mock%20Interview%20(1).mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ## Situation:
 During the work readiness training, I was required to participate in a mock interview and present myself professionally in a recorded video format.
