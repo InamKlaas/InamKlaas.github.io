@@ -89,5 +89,52 @@ Delivered customer service in a fast paced environment
 
 ------------------------------------------------------
 
+# Markdown CV Reflection
 
+## Situation:
+As part of the digital portfolio assessment, I was required to convert my traditional CV into a GitHub-friendly format using Markdown. This was a new experience for me, as I had previously only created CVs using word processors like Microsoft Word.
 
+## Task:
+My task was to design and structure a professional CV using Markdown syntax while ensuring that it remains readable, well-organized, and visually appealing on GitHub.
+
+## Action:
+I learned the basics of Markdown, including headings, lists, links, and formatting techniques. I structured my CV into clear sections such as Profile, Skills, Education, Work Experience, and Projects. I also enhanced the presentation by adding formatting elements like horizontal lines, emojis, and hyperlinks to my GitHub and LinkedIn profiles. Additionally, I used HTML within Markdown to improve layout, such as adding a profile image and aligning content.
+
+## Result:
+As a result, I successfully created a clean and professional CV that is accessible online through GitHub. This process improved my technical documentation skills and understanding of Markdown, which is widely used in software development. It also enhanced my ability to present information clearly in a digital format.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+# Mork Interview 
+
+# Mork interview Reflection
+
+## Situation:
+During the work readiness training, I was required to participate in a mock interview and present myself professionally in a recorded video format.
+
+## Task:
+My task was to prepare for and deliver a mock interview that demonstrates my communication skills, confidence, and understanding of common interview questions in the IT field.
+
+## Action:
+I prepared by researching common interview questions and practicing my responses. I focused on clearly explaining my skills, academic background, and career goals. During the recording, I ensured that I maintained good posture, spoke clearly, and presented myself professionally. I also reviewed the video afterward to evaluate my performance and identify areas for improvement.
+
+## Result:
+The mock interview helped me build confidence in answering interview questions and improved my communication skills. I became more aware of my body language, tone, and clarity when speaking. This experience has better prepared me for real-world interviews and professional interactions.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+# Github Pages Reflection
+
+## Situation:
+As part of the assessment, I was required to publish my digital portfolio online using GitHub Pages, which was a new platform for me.
+
+## Task:
+My task was to deploy my GitHub repository as a live website and ensure that all elements of my portfolio, including my CV and mock interview, were accessible and properly displayed.
+
+## Action:
+I learned how to enable GitHub Pages through the repository settings and selected the appropriate branch for deployment. I ensured that my README file was properly formatted and that all links, images, and files were correctly referenced. I also tested the live site to confirm that everything was functioning as expected.
+
+## Result:
+I successfully published my portfolio as a live website, making it easily accessible to others. This experience improved my understanding of web deployment and version control. It also gave me practical skills in presenting my work professionally online, which is essential for a career in IT.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
