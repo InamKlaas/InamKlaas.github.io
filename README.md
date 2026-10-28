@@ -149,13 +149,14 @@ I successfully published my portfolio as a live website, making it easily access
 
 # SEMESTER 2 
 
-
-
-
 ---
 
 <a id="agile-portfolio"></a>
 ## 🧭 Agile Project Portfolio: YES-App
+
+<p align="left">
+  <img src="./inam%20capacity.jpg" alt="Inam Klaas" width="150">
+</p>
 
 **Student:** Inam Klaas  
 **Project:** YES-App, a platform that connects unemployed youth with NPOs that place youth into jobs, using ML matches and scores.  
@@ -163,9 +164,13 @@ I successfully published my portfolio as a live website, making it easily access
 **Team:** Tlou (youth side), Shaun (manager).  
 **Project dates:** 25 September 2026 to 22 October 2026
 
-![Trello board, left half: Team Charter, Product Backlog, Sprint Backlog and In Progress](full%20trello%201.jpeg)
+<p align="left">
+  <img src="./full%20trello%201.jpeg" alt="Trello board, left half: Team Charter, Product Backlog, Sprint Backlog and In Progress" width="700">
+</p>
 
-![Trello board, right half: In Progress, Testing, Done and Agile Logbook](full%20trello%202.jpeg)
+<p align="left">
+  <img src="./full%20trello%202.jpeg" alt="Trello board, right half: In Progress, Testing, Done and Agile Logbook" width="700">
+</p>
 
 **Jump to a section:**
 [Team Charter](#agile-charter) · [User Stories and Tasks](#agile-stories) · [Product Backlog](#agile-backlog) · [Sprint Backlog](#agile-sprints) · [Agile Logbook](#agile-logbook)
@@ -185,7 +190,9 @@ Building the Trello board after the work had started also taught me something. B
 
 The charter was discussed with the team from 25 September to 6 October 2026. It was agreed verbally and never written down. The version below is written up for this portfolio from what the team agreed.
 
-![Team Charter card on Trello](trello%20charter.jpeg)
+<p align="left">
+  <img src="./trello%20charter.jpeg" alt="Team Charter card on Trello" width="600">
+</p>
 
 **Purpose**  
 The YES-App connects unemployed youth with NPOs that want to place youth into jobs, based on ML matches and scores. Our team builds a youth dashboard and a host dashboard, with a shared database behind them, so that placements are based on clear and fair matches.
@@ -237,9 +244,13 @@ The YES-App connects unemployed youth with NPOs that want to place youth into jo
 
 I wrote 11 user stories for the host dashboard and broke each into tasks, which I recorded on Trello. Each card has an epic label and a priority label (Must or Should), a member, and a checklist of tasks. The screen layout was provided by Shaun, and I did the implementation.
 
-![An expanded story card (US-08) with members, labels, description and task checklist](backlog%20user%20story.jpeg)
+<p align="left">
+  <img src="./backlog%20user%20story.jpeg" alt="An expanded story card (US-08) with members, labels, description and task checklist" width="650">
+</p>
 
-![Trello board showing story cards across the lists](full%20trello%201.jpeg)
+<p align="left">
+  <img src="./full%20trello%201.jpeg" alt="Trello board showing story cards across the lists" width="700">
+</p>
 
 | ID | User story | Tasks | Labels | Status (28 Oct) |
 |---|---|---|---|---|
@@ -278,15 +289,17 @@ The product backlog is a prioritised list of everything planned for the host das
 
 **Still in the Product Backlog list (not yet started):**
 
-![Product Backlog list on Trello](product%20backlog%20all.jpeg)
+<p align="left">
+  <img src="./product%20backlog%20all.jpeg" alt="Product Backlog list on Trello" width="280">
+</p>
 
-**Stories that have moved out of the backlog:**
+**Stories that have moved out of the backlog (Done, Testing and In Progress):**
 
-![Done list on Trello](Done.jpeg)
-
-![Testing list on Trello](Testing.jpeg)
-
-![In Progress list on Trello](In%20progress.jpeg)
+<p align="left">
+  <img src="./Done.jpeg" alt="Done list on Trello" width="230">
+  <img src="./Testing.jpeg" alt="Testing list on Trello" width="230">
+  <img src="./In%20progress.jpeg" alt="In Progress list on Trello" width="230">
+</p>
 
 | Rank | ID | Item | Type | Priority | Status |
 |---|---|---|---|---|---|
@@ -323,13 +336,17 @@ The product backlog is a prioritised list of everything planned for the host das
 
 I planned the work in two sprints, one for each period between the team's checkpoint meetings. Each sprint has a goal and a card on the Trello Sprint Backlog list.
 
-![Sprint Backlog list showing the Sprint 1 and Sprint 2 cards](Sprint%20backlog%20all.jpeg)
+<p align="left">
+  <img src="./Sprint%20backlog%20all.jpeg" alt="Sprint Backlog list showing the Sprint 1 and Sprint 2 cards" width="280">
+</p>
 
 ### Sprint 1: 25 September to 13 October 2026
 
 **Sprint goal:** A host organization worker can see an overview of the platform and review ML matches with their scores, reasons and status.
 
-![Sprint 1 card expanded](sprint%20backlog.jpeg)
+<p align="left">
+  <img src="./sprint%20backlog.jpeg" alt="Sprint 1 card expanded" width="650">
+</p>
 
 | Story | Task | Owner | Estimate | Outcome (28 Oct) |
 |---|---|---|---|---|
@@ -344,9 +361,10 @@ I planned the work in two sprints, one for each period between the team's checkp
 
 **Sprint goal:** A host organization worker can act on an ML match by approving it or contesting it with a comment and a new score.
 
-![Sprint 2 work: In Progress list](In%20progress.jpeg)
-
-![Sprint 2 work: Testing list](Testing.jpeg)
+<p align="left">
+  <img src="./In%20progress.jpeg" alt="Sprint 2 work: In Progress list" width="230">
+  <img src="./Testing.jpeg" alt="Sprint 2 work: Testing list" width="230">
+</p>
 
 | Story | Task | Owner | Estimate | Outcome (28 Oct) |
 |---|---|---|---|---|
@@ -377,7 +395,9 @@ I planned the work in two sprints, one for each period between the team's checkp
 
 The logbook is the Agile Logbook list on my Trello board, with one card for each session.
 
-![Agile Logbook list on Trello with four entries](agile%20logbook.jpeg)
+<p align="left">
+  <img src="./agile%20logbook.jpeg" alt="Agile Logbook list on Trello with four entries" width="280">
+</p>
 
 **25 September 2026: Project kick-off and sprint planning**
 - **Type:** Sprint planning
@@ -431,6 +451,7 @@ The logbook is the Agile Logbook list on my Trello board, with one card for each
 [Back to top](#agile-portfolio)
 
 ---
+
 
 
 
