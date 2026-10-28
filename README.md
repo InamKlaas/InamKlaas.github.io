@@ -150,6 +150,7 @@ I successfully published my portfolio as a live website, making it easily access
 # SEMESTER 2 
 
 
+
 ---
 
 <a id="agile-portfolio"></a>
@@ -170,7 +171,9 @@ I successfully published my portfolio as a live website, making it easily access
 
 ### Overall reflection
 
-Working on the YES-App showed me how the Agile sections depend on each other: the verbal charter set how we worked, Shaun's direction became the user stories and backlog, and the sprints and logbook recorded how far we got. Compared with my one-week builds from July to September, this project ran in two sprints with checkpoint meetings, which made progress and gaps easier to see, and next time I would write the team agreements down from the start.
+Working on the YES-App showed me how the Agile sections depend on each other: the verbal charter set how we worked, Shaun's direction became the user stories and backlog, and the sprints and logbook recorded how far we got. Compared with my one-week builds from July to September (the ResConnect app, the ResConnect chatbot and the sentiment insights app), this project ran in two sprints with checkpoint meetings, which made progress and gaps easier to see.
+
+Building the Trello board after the work had started also taught me something. Because our agreements were never written down, I only saw clearly what was finished and what was outstanding once I put it on the board. Next time I would write the charter down in the first week and keep the board up to date from day one.
 
 ---
 
@@ -220,7 +223,7 @@ The YES-App connects unemployed youth with NPOs that want to place youth into jo
 
 **Now what:** Next time I would write the charter down in the first week and keep it where the whole team can see it, such as on the Trello board. That would make it easier to track what is finished and what is outstanding.
 
-**Connect:** The check-ins with Shaun described in the charter appear again as the 13 and 22 October meetings in my logbook. The scope we agreed became the user stories on Trello, which gave us the written tracking the charter lacked.
+**Connect:** The check-ins with Shaun described in the charter appear again as the 13 and 22 October meetings in my logbook. The scope we agreed became the user stories and backlog, and recording them on Trello gave me the written tracking the charter lacked.
 
 [Back to top](#agile-portfolio)
 
@@ -231,11 +234,11 @@ The YES-App connects unemployed youth with NPOs that want to place youth into jo
 
 ### Evidence
 
-I wrote 11 user stories for the host dashboard and broke each into tasks on Trello. Each card has an epic label and a priority label (Must or Should), a member, and a checklist of tasks. The screen layout was provided by Shaun, and I did the implementation.
+I wrote 11 user stories for the host dashboard and broke each into tasks, which I recorded on Trello. Each card has an epic label and a priority label (Must or Should), a member, and a checklist of tasks. The screen layout was provided by Shaun, and I did the implementation.
 
 ![An expanded story card (US-08) with members, labels, description and task checklist](images/backlog_user_story.jpeg)
 
-![Trello board showing story cards moving across the lists](images/full_trello_1.jpeg)
+![Trello board showing story cards across the lists](images/full_trello_1.jpeg)
 
 | ID | User story | Tasks | Labels | Status (28 Oct) |
 |---|---|---|---|---|
@@ -302,7 +305,7 @@ The product backlog is a prioritised list of everything planned for the host das
 
 **What:** The product backlog is my ranked list of all 11 stories, and the Trello screenshots show it split between work still waiting, work in testing and work done. I chose them because they show both my priorities and how far the work has got.
 
-**So what:** I ranked the dashboard and match screens first because Shaun gave us the layout, and I built the actions on a match and the verification work after that. Items 8 to 11 (verification, the API link and the role guard) are not started because the earlier Must stories were still being completed.
+**So what:** I ranked the dashboard and match screens first because Shaun gave us the layout, and I built the actions on a match and the verification work after that. Items 8 to 11 (the API link, verification and the role guard) are not started because the earlier Must stories were still being completed.
 
 **Now what:** Next time I would rank by dependency and effort together, and ask Shaun to confirm the order at the start of each sprint. I would also take fewer Must stories into a sprint so the top-ranked ones are fully finished.
 
@@ -329,10 +332,10 @@ I planned the work in two sprints, one for each period between the team's checkp
 
 | Story | Task | Owner | Estimate | Outcome (28 Oct) |
 |---|---|---|---|---|
-| US-01 | Stats endpoint; stat cards; link cards to filters | Inam | [ ] | Done |
-| US-02 | Matches endpoint; match list rows; score badge and status pill | Inam | [ ] | Done |
-| US-03 | Status and score filters; filter chips; sort order | Inam | [ ] | Done |
-| US-04 | Match detail endpoint; MatchDetailScreen; matched and missing skills | Inam | [ ] | Testing (4 of 5 tasks ticked) |
+| US-01 | Stats endpoint; stat cards; link cards to filters | Inam | Not estimated | Done |
+| US-02 | Matches endpoint; match list rows; score badge and status pill | Inam | Not estimated | Done |
+| US-03 | Status and score filters; filter chips; sort order | Inam | Not estimated | Done |
+| US-04 | Match detail endpoint; MatchDetailScreen; matched and missing skills | Inam | Not estimated | Testing (4 of 5 tasks ticked) |
 
 **Outcome:** Sprint 1 covered US-01 to US-04. US-01 to US-03 are done, and US-04 is in testing with 4 of 5 tasks ticked.
 
@@ -346,9 +349,9 @@ I planned the work in two sprints, one for each period between the team's checkp
 
 | Story | Task | Owner | Estimate | Outcome (28 Oct) |
 |---|---|---|---|---|
-| US-05 | Approve endpoint; Approve button with confirmation | Inam | [ ] | Testing (1 of 2 tasks ticked) |
-| US-06 | Contest endpoint; validation; ContestModal; score diff badge | Inam | [ ] | In progress (3 of 4 tasks ticked) |
-| US-07 | Store original and final score, contester and reason; check original score is unchanged | Inam | [ ] | In progress (1 of 2 tasks ticked) |
+| US-05 | Approve endpoint; Approve button with confirmation | Inam | Not estimated | Testing (1 of 2 tasks ticked) |
+| US-06 | Contest endpoint; validation; ContestModal; score diff badge | Inam | Not estimated | In progress (3 of 4 tasks ticked) |
+| US-07 | Store original and final score, contester and reason; check original score is unchanged | Inam | Not estimated | In progress (1 of 2 tasks ticked) |
 
 **Outcome:** Sprint 2 covered US-05 to US-07. US-05 is in testing, and US-06 and US-07 are in progress, so they carry over into the backlog.
 
@@ -356,7 +359,7 @@ I planned the work in two sprints, one for each period between the team's checkp
 
 **What:** The sprint backlog shows the work I selected for each sprint and the goal it served: reviewing ML matches in Sprint 1 and acting on them in Sprint 2. I chose these screenshots because the board shows the real state of each card.
 
-**So what:** Sprint 1 went to plan for the first three stories, but US-04 was still in testing at the end, and Sprint 2 finished with US-05 in testing and US-06 and US-07 in progress. [ADD THE REAL REASON, e.g. the charter week from 25 September to 6 October meant most of the building happened in the last week of Sprint 1. Check your commit dates.]
+**So what:** Sprint 1 went to plan for the first three stories, but US-04 was still in testing at the end, and Sprint 2 finished with US-05 in testing and US-06 and US-07 in progress. The charter discussions ran from 25 September to 6 October, which left about a week of Sprint 1 for building, so I took on more than I could fully finish and test.
 
 **Now what:** Next time I would estimate each task and take on less per sprint so the sprint goal is met in full. I would also move a card to Done only when every checklist item is ticked, so the board always matches the outcome.
 
@@ -373,35 +376,37 @@ I planned the work in two sprints, one for each period between the team's checkp
 
 The logbook is the Agile Logbook list on my Trello board, with one card for each session.
 
-![Agile Logbook list on Trello, shown on the right of the board](images/full_trello_2.jpeg)
+![Agile Logbook list on Trello with four entries](images/agile_logbook.jpeg)
 
 **25 September 2026: Project kick-off and sprint planning**
 - **Type:** Sprint planning
-- **Attendees:** [confirm: Shaun, Tlou, Inam]
-- **What happened:** Shaun called us to explain what to add and change. Charter discussions started.
+- **Attendees:** Shaun, Tlou, Inam
+- **What happened:** Shaun called us to explain what to add and change in the app. Charter discussions started.
 - **Sprint 1 goal:** A host organization worker can see an overview of the platform and review ML matches.
-- **Decisions / actions:** [WRITE]
+- **Decisions / actions:** We agreed to build a youth dashboard, a host dashboard, their features and a shared database. We chose Google Meet for calls, WhatsApp for messages and GitHub for code.
 
 **6 October 2026: Charter agreed**
 - **Type:** Team agreement
-- **What happened:** A week of discussion about the app's future, goals, and how to reach them. The scope was agreed: youth dashboard, host dashboard, their features, and the database.
-- **Decisions / actions:** [WRITE]
+- **What happened:** A week of discussion about the app's future, goals, and how to reach them.
+- **Decisions / actions:** The scope was agreed verbally. Tlou took the youth side, I took the host side, and we shared the database. Nothing was written down.
 
 **13 October 2026: Sprint 1 review, retrospective and Sprint 2 planning**
+- **Attendees:** Shaun, Tlou, Inam
 - **Done since 25 Sep:** US-01, US-02 and US-03; US-04 in testing
 - **Doing next:** US-05, US-06 and US-07
-- **Blockers:** [WRITE or "None"]
-- **What went well:** [WRITE]
-- **What went badly:** [WRITE]
-- **What we will change:** [WRITE]
+- **Blockers:** None recorded
+- **What went well:** The first three stories were finished, and checking in with Shaun kept us aligned. His layout gave me a clear starting point for the host dashboard.
+- **What went badly:** US-04 was not fully tested. Because nothing was written down, it was hard to see exactly what was done and what was left.
+- **What we will change:** Move on to the actions on a match (approve and contest), and track each task as it is finished.
 
 **22 October 2026: Sprint 2 review and retrospective**
+- **Attendees:** Shaun, Tlou, Inam
 - **Status:** US-05 in testing; US-06 and US-07 in progress
 - **Not started:** US-08, US-09, US-10, US-11
-- **Blockers:** [WRITE or "None"]
-- **What went well:** [WRITE]
-- **What went badly:** [WRITE]
-- **What we will change:** [WRITE]
+- **Blockers:** None recorded
+- **What went well:** The contest feature saves to the database, and Shaun's feedback kept the host dashboard in line with what he wanted.
+- **What went badly:** Several stories were left unfinished, and the verification screens, the API link and the role guard are not started.
+- **What we will change:** Take on fewer stories per sprint, finish and test each one before starting the next, and write short notes after every call.
 
 **Background: July to September 2026**
 
@@ -409,21 +414,24 @@ The logbook is the Agile Logbook list on my Trello board, with one card for each
 |---|---|
 | July, week 1 | ResConnect app |
 | July, week 2 | ResConnect chatbot |
-| July, week 3 to [date] | Sentiment insights app |
+| July, week 3 until the last week | Sentiment insights app |
 | September to 25 Sep | Onboarding |
 
 ### Reflection
 
 **What:** The logbook records the key sessions of the project, from the 25 September kick-off to the 22 October checkpoint, and I chose it because it shows how we planned and reviewed our work with Shaun. The July to September builds are included as background for the habits I brought to this project.
 
-**So what:** The 13 and 22 October meetings with Shaun worked as our sprint reviews, where we checked what was done and what he wanted added or changed. [ADD ONE THING YOU CHANGED AFTER THE 13 OCTOBER MEETING.]
+**So what:** The 13 and 22 October meetings with Shaun worked as our sprint reviews, where we checked what was done and what he wanted added or changed. After the 13 October review I moved from viewing matches to acting on them with approve and contest, and I kept asking Shaun whenever I was unsure, as our charter said.
 
-**Now what:** Next time I would write short notes straight after every call so the details of what was decided are not lost. I would also record the daily progress between meetings, not only the checkpoints.
+**Now what:** Next time I would write short notes straight after every call so the details of what was decided are not lost. I would also record daily progress between meetings, not only the checkpoints.
 
 **Connect:** The charter's values of asking questions and staying aligned appear in every entry as check-ins with Shaun. The outcome of each review shaped the next sprint's backlog, which is how the five sections work together.
+
 [Back to top](#agile-portfolio)
 
 ---
+
+
 
 
 
