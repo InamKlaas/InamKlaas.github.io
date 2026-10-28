@@ -151,6 +151,7 @@ I successfully published my portfolio as a live website, making it easily access
 
 
 
+
 ---
 
 <a id="agile-portfolio"></a>
@@ -162,9 +163,9 @@ I successfully published my portfolio as a live website, making it easily access
 **Team:** Tlou (youth side), Shaun (manager).  
 **Project dates:** 25 September 2026 to 22 October 2026
 
-![Trello board, left half: Team Charter, Product Backlog, Sprint Backlog and In Progress](images/full_trello_1.jpeg)
+![Trello board, left half: Team Charter, Product Backlog, Sprint Backlog and In Progress](full%20trello%201.jpeg)
 
-![Trello board, right half: In Progress, Testing, Done and Agile Logbook](images/full_trello_2.jpeg)
+![Trello board, right half: In Progress, Testing, Done and Agile Logbook](full%20trello%202.jpeg)
 
 **Jump to a section:**
 [Team Charter](#agile-charter) · [User Stories and Tasks](#agile-stories) · [Product Backlog](#agile-backlog) · [Sprint Backlog](#agile-sprints) · [Agile Logbook](#agile-logbook)
@@ -184,7 +185,7 @@ Building the Trello board after the work had started also taught me something. B
 
 The charter was discussed with the team from 25 September to 6 October 2026. It was agreed verbally and never written down. The version below is written up for this portfolio from what the team agreed.
 
-![Team Charter card on Trello](images/trello_charter.jpeg)
+![Team Charter card on Trello](trello%20charter.jpeg)
 
 **Purpose**  
 The YES-App connects unemployed youth with NPOs that want to place youth into jobs, based on ML matches and scores. Our team builds a youth dashboard and a host dashboard, with a shared database behind them, so that placements are based on clear and fair matches.
@@ -236,9 +237,9 @@ The YES-App connects unemployed youth with NPOs that want to place youth into jo
 
 I wrote 11 user stories for the host dashboard and broke each into tasks, which I recorded on Trello. Each card has an epic label and a priority label (Must or Should), a member, and a checklist of tasks. The screen layout was provided by Shaun, and I did the implementation.
 
-![An expanded story card (US-08) with members, labels, description and task checklist](images/backlog_user_story.jpeg)
+![An expanded story card (US-08) with members, labels, description and task checklist](backlog%20user%20story.jpeg)
 
-![Trello board showing story cards across the lists](images/full_trello_1.jpeg)
+![Trello board showing story cards across the lists](full%20trello%201.jpeg)
 
 | ID | User story | Tasks | Labels | Status (28 Oct) |
 |---|---|---|---|---|
@@ -277,15 +278,15 @@ The product backlog is a prioritised list of everything planned for the host das
 
 **Still in the Product Backlog list (not yet started):**
 
-![Product Backlog list on Trello](images/product_backlog_all.jpeg)
+![Product Backlog list on Trello](product%20backlog%20all.jpeg)
 
 **Stories that have moved out of the backlog:**
 
-![Done list on Trello](images/Done.jpeg)
+![Done list on Trello](Done.jpeg)
 
-![Testing list on Trello](images/Testing.jpeg)
+![Testing list on Trello](Testing.jpeg)
 
-![In Progress list on Trello](images/In_progress.jpeg)
+![In Progress list on Trello](In%20progress.jpeg)
 
 | Rank | ID | Item | Type | Priority | Status |
 |---|---|---|---|---|---|
@@ -322,13 +323,13 @@ The product backlog is a prioritised list of everything planned for the host das
 
 I planned the work in two sprints, one for each period between the team's checkpoint meetings. Each sprint has a goal and a card on the Trello Sprint Backlog list.
 
-![Sprint Backlog list showing the Sprint 1 and Sprint 2 cards](images/Sprint_backlog_all.jpeg)
+![Sprint Backlog list showing the Sprint 1 and Sprint 2 cards](Sprint%20backlog%20all.jpeg)
 
 ### Sprint 1: 25 September to 13 October 2026
 
 **Sprint goal:** A host organization worker can see an overview of the platform and review ML matches with their scores, reasons and status.
 
-![Sprint 1 card expanded](images/sprint_backlog.jpeg)
+![Sprint 1 card expanded](sprint%20backlog.jpeg)
 
 | Story | Task | Owner | Estimate | Outcome (28 Oct) |
 |---|---|---|---|---|
@@ -343,9 +344,9 @@ I planned the work in two sprints, one for each period between the team's checkp
 
 **Sprint goal:** A host organization worker can act on an ML match by approving it or contesting it with a comment and a new score.
 
-![Sprint 2 work: In Progress list](images/In_progress.jpeg)
+![Sprint 2 work: In Progress list](In%20progress.jpeg)
 
-![Sprint 2 work: Testing list](images/Testing.jpeg)
+![Sprint 2 work: Testing list](Testing.jpeg)
 
 | Story | Task | Owner | Estimate | Outcome (28 Oct) |
 |---|---|---|---|---|
@@ -376,7 +377,7 @@ I planned the work in two sprints, one for each period between the team's checkp
 
 The logbook is the Agile Logbook list on my Trello board, with one card for each session.
 
-![Agile Logbook list on Trello with four entries](images/agile_logbook.jpeg)
+![Agile Logbook list on Trello with four entries](agile%20logbook.jpeg)
 
 **25 September 2026: Project kick-off and sprint planning**
 - **Type:** Sprint planning
@@ -430,7 +431,6 @@ The logbook is the Agile Logbook list on my Trello board, with one card for each
 [Back to top](#agile-portfolio)
 
 ---
-
 
 
 
